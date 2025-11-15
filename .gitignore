@@ -1,0 +1,28 @@
+# 🔥 DO NOT TRACK FIREBASE SERVICE ACCOUNT JSON
+serviceAccountKey.json
+serviceaccountkey.json
+ServiceAccountKey.json
+
+# 🔥 PYTHON
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🔥 VENV
+.venv/
+venv/
+
+# 🔥 ENV FILES (secrets)
+.env
+
+# 🔥 LOGS
+*.log
+
+# 🔥 EDITOR
+.vscode/
+.idea/
+
+# 🔥 OS FILES
+.DS_Store
+Thumbs.db
